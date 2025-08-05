@@ -1,4 +1,4 @@
-# Netflix Clone
+# Flix Clone
 
 A front-end UI clone of the Netflix homepage built using HTML and CSS.  
 This version focuses on layout structure and visual design; responsiveness improvements will be made in future updates.
