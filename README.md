@@ -8,7 +8,7 @@ This version focuses on layout structure and visual design; responsiveness impro
 - CSS3 (Flexbox, Grid)
 
 ## 🚀 Live Demo  
-[View Website](https://abdullah-6203.github.io/Netflix-Clone/)
+[View Website](https://abdullah-6203.github.io/Netflix-Webiste-Clone/)
 
 ## 📌 Status
 📄 UI clone completed  
